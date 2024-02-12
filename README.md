@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Nandkishor Nidhonkar</h1>
-<h3 align="center">Hi there! I'm Aditya Nidhonkar, a software engineer with a background in Computer Engineering. I'm passionate about problem-solving and innovation, and I thrive on challenges that push the boundaries of technology. From designing scalable systems to crafting elegant code, I'm dedicated to creating impactful solutions that make a difference. Outside of coding, you can find me [mention any hobbies or interests outside of work]. Let's connect and build something amazing together!"</h3>
+<h3 align="center">Hi there! I'm Aditya Nidhonkar, a Software Engineer with a background in Computer Engineering. I'm passionate about Problem-Solving and Innovation, and I thrive on challenges that push the boundaries of technology. From designing scalable systems to crafting Elegant Code, I'm dedicated to creating impactful solutions that make a difference. Outside of coding, you can find me playing FootBall,Travelling to different places. Let's connect and build something amazing together!"</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3  align="center" padding="5">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/aditya nidhonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya nidhonkar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adityanidhonkar2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityanidhonkar2004" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/adityanidhonkar2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adityanidhonkar2004" height="30" width="40" /></a>
