@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/8cf7f13a34ecebbb0efeae85b2804a89283efca59b83e258344f6b2120b7dba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765" height="30" alt="tailwindCSS logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
