@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left"><br>📚 Building an Blog Website for TravelFreaks<br>🎯 Goals: To live peacefully,  Build something that really creates an impact🚀</p>
+<p align="left">🎯 Goals: To live peacefully,  Build something that really creates an impact🚀</p>
 
 ###
 
